@@ -7,3 +7,4 @@ featuredimg: "/assets/img/anya-chalotra-1.png"
 summary: Anya Chalotra 1
 
 ---
+![](/assets/img/anya-chalotra-1.png)
