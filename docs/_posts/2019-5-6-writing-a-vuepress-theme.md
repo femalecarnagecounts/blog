@@ -1,8 +1,8 @@
 ---
 title: Anya Chalotra
-date: 2019-5-6
+date: 
 tags: []
-author: Carnage Counts
+author: ''
 featuredimg: "/assets/img/anya-chalotra-1.png"
 summary: Anya Chalotra 1
 
